@@ -1,0 +1,20 @@
+
+residue =0
+
+residue =1.8723e-16
+
+residue =7.30385e-16
+
+residue =1.81384e-15
+
+residue =5.0146e-15
+
+residue =9.07092e-15
+
+residue =1.4062e-14
+
+residue =1.95282e-14
+
+residue =4.99438e-14
+
+residue =1.37968e-13
